@@ -15,6 +15,7 @@ h3{
     text-align: center;
 }
 h4{
+    padding: 30px;
     text-align: left;
 }
 nav ul {
@@ -92,4 +93,16 @@ main {
     height: 50%;
     width: 80%;
 }
-
+.Temastyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+    width: 70%;
+}
+.imagen2{
+    width: 300px;
+    text-align: center;
+    
+}
+.body{
+    background-color: deepskyblue;
+}
